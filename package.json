@@ -1,0 +1,1 @@
+{"description":"One line roasting my own agent, written to /output/entry.txt for make.fun's Roast Your Own Agent bounty.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"roast-your-own-agent","type":"module","version":"1.0.0"}
